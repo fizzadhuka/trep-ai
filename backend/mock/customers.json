@@ -1,0 +1,86 @@
+[
+  {
+    "account_id": "5550192",
+    "name": "Maria Gonzalez",
+    "phone": "555-019-2000",
+    "primary_holder": { "name": "Maria Gonzalez", "is_present": true },
+    "current_plan": { "plan_id": "magenta", "name": "Magenta", "monthly_total": 85.00, "lines": 3 },
+    "upgrade_eligibility": {
+      "eligible": true,
+      "current_device": "iPhone 13 Pro",
+      "months_in": 18,
+      "trade_in_value": 320.00
+    },
+    "open_issues": [
+      { "type": "billing_dispute", "description": "Overcharge from June cycle", "status": "open" }
+    ],
+    "authorized_users": ["Maria Gonzalez"],
+    "last_interaction": "2026-06-14"
+  },
+  {
+    "account_id": "5550271",
+    "name": "Derek Wu",
+    "phone": "555-027-1000",
+    "primary_holder": { "name": "Derek Wu", "is_present": true },
+    "current_plan": { "plan_id": "magenta", "name": "Magenta", "monthly_total": 70.00, "lines": 2 },
+    "upgrade_eligibility": {
+      "eligible": true,
+      "current_device": "Samsung Galaxy S23",
+      "months_in": 24,
+      "trade_in_value": 0
+    },
+    "open_issues": [],
+    "authorized_users": ["Derek Wu"],
+    "last_interaction": "2026-07-01"
+  },
+  {
+    "account_id": "5550388",
+    "name": "Jake Patel",
+    "phone": "555-038-8000",
+    "primary_holder": { "name": "Priya Patel", "is_present": false },
+    "current_plan": { "plan_id": "essentials", "name": "Essentials", "monthly_total": 60.00, "lines": 2 },
+    "upgrade_eligibility": {
+      "eligible": false,
+      "current_device": "iPhone 12",
+      "months_in": 8,
+      "trade_in_value": 120.00
+    },
+    "open_issues": [],
+    "authorized_users": ["Priya Patel"],
+    "last_interaction": "2026-05-20"
+  },
+  {
+    "account_id": "5550412",
+    "name": "Sandra Okafor",
+    "phone": "555-041-2000",
+    "primary_holder": { "name": "Sandra Okafor", "is_present": true },
+    "current_plan": { "plan_id": "magenta_max", "name": "Magenta MAX", "monthly_total": 107.00, "lines": 3 },
+    "upgrade_eligibility": {
+      "eligible": true,
+      "current_device": "iPhone 14",
+      "months_in": 22,
+      "trade_in_value": 250.00
+    },
+    "open_issues": [
+      { "type": "failed_payment", "description": "Payment declined on July 15", "status": "open" }
+    ],
+    "authorized_users": ["Sandra Okafor", "Kwame Okafor"],
+    "last_interaction": "2026-07-15"
+  },
+  {
+    "account_id": "5550503",
+    "name": "Tom Reyes",
+    "phone": "555-050-3000",
+    "primary_holder": { "name": "Tom Reyes", "is_present": true },
+    "current_plan": { "plan_id": "magenta_max", "name": "Magenta MAX", "monthly_total": 90.00, "lines": 2 },
+    "upgrade_eligibility": {
+      "eligible": false,
+      "current_device": "iPhone 15 Pro",
+      "months_in": 5,
+      "trade_in_value": 620.00
+    },
+    "open_issues": [],
+    "authorized_users": ["Tom Reyes"],
+    "last_interaction": "2026-07-10"
+  }
+]

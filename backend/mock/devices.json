@@ -1,0 +1,6 @@
+[
+  { "model": "iPhone 16 Pro", "price": 999, "trade_in_values": { "iPhone 13 Pro": 320, "iPhone 14": 250, "iPhone 15 Pro": 620, "iPhone 12": 120 } },
+  { "model": "iPhone 16", "price": 799, "trade_in_values": { "iPhone 13 Pro": 280, "iPhone 14": 210, "iPhone 15 Pro": 580, "iPhone 12": 100 } },
+  { "model": "Samsung Galaxy S25", "price": 899, "trade_in_values": { "Samsung Galaxy S23": 200, "Samsung Galaxy S24": 400 } },
+  { "model": "Google Pixel 9", "price": 799, "trade_in_values": {} }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "iphone16-tradein",
+    "name": "iPhone 16 Trade-In Deal",
+    "description": "Up to $830 off iPhone 16 with eligible trade-in",
+    "eligible_from_plans": ["magenta", "magenta_max", "go5g_plus"],
+    "eligible_to_plans": ["magenta_max", "go5g_plus"],
+    "discount_amount": 830,
+    "discount_type": "device_credit",
+    "requires_trade_in": true,
+    "requires_min_lines": null
+  },
+  {
+    "id": "magenta-max-upgrade",
+    "name": "Magenta MAX Upgrade Credit",
+    "description": "$100 bill credit when upgrading to Magenta MAX",
+    "eligible_from_plans": ["essentials", "magenta"],
+    "eligible_to_plans": ["magenta_max"],
+    "discount_amount": 100,
+    "discount_type": "bill_credit",
+    "requires_trade_in": false,
+    "requires_min_lines": null
+  },
+  {
+    "id": "loyalty-4th-line",
+    "name": "4th Line On Us",
+    "description": "Add a 4th line free for 12 months on Magenta MAX",
+    "eligible_from_plans": ["magenta_max", "go5g_plus"],
+    "eligible_to_plans": ["magenta_max", "go5g_plus"],
+    "discount_amount": 37,
+    "discount_type": "monthly_credit",
+    "requires_trade_in": false,
+    "requires_min_lines": 4
+  }
+]

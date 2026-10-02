@@ -1,0 +1,30 @@
+{
+  "essentials": {
+    "plan_id": "essentials",
+    "name": "Essentials",
+    "tier": 1,
+    "monthly_total_by_lines": { "1": 45, "2": 60, "3": 70, "4": 80, "5": 90 },
+    "features": ["5G access", "Unlimited talk, text, data"]
+  },
+  "magenta": {
+    "plan_id": "magenta",
+    "name": "Magenta",
+    "tier": 2,
+    "monthly_total_by_lines": { "1": 50, "2": 70, "3": 85, "4": 100, "5": 115 },
+    "features": ["5G access", "Netflix Standard", "Scam Shield Premium", "In-flight Wi-Fi"]
+  },
+  "magenta_max": {
+    "plan_id": "magenta_max",
+    "name": "Magenta MAX",
+    "tier": 3,
+    "monthly_total_by_lines": { "1": 65, "2": 90, "3": 107, "4": 124, "5": 141 },
+    "features": ["5G Ultra Capacity", "Netflix 4K", "Apple TV+", "4K streaming"]
+  },
+  "go5g_plus": {
+    "plan_id": "go5g_plus",
+    "name": "Go5G Plus",
+    "tier": 4,
+    "monthly_total_by_lines": { "1": 75, "2": 105, "3": 125, "4": 145, "5": 165 },
+    "features": ["Go5G Next upgrade", "Netflix 4K", "Apple TV+", "Hulu", "In-flight Wi-Fi"]
+  }
+}
